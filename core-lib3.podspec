@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
       'ENABLE_BITCODE'         => 'NO',
       'SWIFT_VERSION' => '4.0'
   }
+   s.swift_version = '4.0'
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'core-lib3/Classes/**/*'
