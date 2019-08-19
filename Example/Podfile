@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'core-lib3_Example' do
+  pod 'core-lib3', :path => '../'
+
+  target 'core-lib3_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
