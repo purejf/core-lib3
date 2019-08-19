@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'core-lib3'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'core-lib3'
 
 # This description is used to generate tags and improve search results.
