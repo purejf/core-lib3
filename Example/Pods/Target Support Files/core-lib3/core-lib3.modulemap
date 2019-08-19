@@ -1,0 +1,6 @@
+framework module core_lib3 {
+  umbrella header "core-lib3-umbrella.h"
+
+  export *
+  module * { export * }
+}

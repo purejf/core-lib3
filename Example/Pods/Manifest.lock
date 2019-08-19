@@ -1,0 +1,27 @@
+PODS:
+  - core-lib3 (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - core-lib3 (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  core-lib3:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  core-lib3: 82448d7e38bb079848bb4d05b5e28e985b9b1728
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: a762547e59eb357d4e5e52ac1c0713a9611126d9
+
+COCOAPODS: 1.7.2
