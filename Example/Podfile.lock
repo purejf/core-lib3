@@ -1,5 +1,5 @@
 PODS:
-  - core-lib3 (0.1.0)
+  - core-lib3 (0.1.1)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  core-lib3: 42dec22825829cc58a241f06a157d42d52d72205
+  core-lib3: 546f351ce068841bab3817a430735e9d8b8d8cfd
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
 PODFILE CHECKSUM: d922171d68246154e680e649a149da773f3ffda6
